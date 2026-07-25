@@ -3,7 +3,7 @@
   "items": [
     {
       "source": "section-a",
-      "items": { 
+      "items": [ 
         "title": "Section A (basicss)", 
         "items": [
           {
@@ -15,7 +15,7 @@
             "title": "Wasm VM (with a JIT)"
           } 
         ]
-      }
+      ]
     },
     {
       "source": "section-b"
