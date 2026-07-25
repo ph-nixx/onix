@@ -3,18 +3,20 @@
   "items": [
     {
       "source": "section-a",
-      "items": [ 
-        "title": "Section A (basicss)", 
-        "items": [
-          {
-            "source": "doc.md", 
-            "title": "A Doc About Docs"
-          }, 
-          {
-            "source": "noexists.md", 
-            "title": "Wasm VM (with a JIT)"
-          } 
-        ]
+      "items": [
+        {
+          "title": "Section A (basicss)", 
+          "items": [
+            {
+              "source": "doc.md", 
+              "title": "A Doc About Docs"
+            }, 
+            {
+              "source": "noexists.md", 
+              "title": "Wasm VM (with a JIT)"
+            } 
+          ]
+        }
       ]
     },
     {
