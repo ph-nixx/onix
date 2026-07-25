@@ -12,7 +12,7 @@
           }, 
           {
             "source": "noexists.md", 
-            "title": "Wasm VM"
+            "title": "Wasm VM (with a JIT)"
           } 
         ]
       }
