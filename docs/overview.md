@@ -22,7 +22,7 @@
         {
           "source": "doc.md", 
           "title": "The doc"
-        },
+        }
       ]
     }
   ]
