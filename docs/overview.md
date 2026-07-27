@@ -17,7 +17,7 @@
     },
     {
       "source": "section-b",
-      "title": "money lawn mower"
+      "title": "money lawn mower",
       "items": [
         {
           "source": "doc.md", 
