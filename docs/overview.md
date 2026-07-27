@@ -3,7 +3,7 @@
   "items": [
     {
       "title": "Section A (basics)",
-      "source": "section-ax",
+      "source": "section-a",
       "items": [
         {
           "source": "doc.md", 
