@@ -18,6 +18,12 @@
     {
       "source": "section-b",
       "title": "money lawn mower"
+      "items": [
+        {
+          "source": "doc.md", 
+          "title": "The doc"
+        },
+      ]
     }
   ]
 }
