@@ -39,6 +39,9 @@ Alignment is worth checking too, since the renderer emits it as inline styles:
 
 Every request carries a signature header. The value is an HMAC of the raw body, computed with the shared secret, and it is compared in constant time — a plain `==` here would leak timing.
 
+> [!NOTE]
+> this is a note
+
 > **Note**
 > Compare the digest, never the hex string. Decoding first and comparing bytes avoids a whole class of subtle mistakes around case and padding.
 >
