@@ -17,7 +17,7 @@
     },
     {
       "source": "section-b",
-      "title": "some code",
+      "title": "some code about code",
       "items": [
         {
           "source": "doc.md", 
