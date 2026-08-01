@@ -80,6 +80,11 @@ Task lists render as real checkboxes, disabled and non-interactive:
 - [ ] Emit a sitemap
 - [ ] ~~Ship a search index~~ — deferred to a later pass
 
+
+# Shit stinky
+
+Hello
+
 ## Code
 
 Inline code such as `Section::items`, `--cache-ttl`, or a path like `src/api/repo_cache.rs` sits in the flow of a sentence without breaking the line rhythm.
