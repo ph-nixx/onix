@@ -1,4 +1,4 @@
-# Example Page
+# PAGE PAGE PAGE
 
 A fixture page that exercises every markdown feature the renderer supports, so styling and cache behaviour can be checked against one document instead of hunting for a real page that happens to use the right elements.
 
