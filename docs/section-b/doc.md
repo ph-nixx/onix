@@ -1,8 +1,6 @@
 # THE PAGE
 
-# Heading
-
-# Heading
+the page
 
 # Heading
 
