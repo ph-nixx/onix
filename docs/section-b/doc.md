@@ -4,6 +4,15 @@ the page
 
 # Heading
 
+# Heading1
+
+# Heading2
+
+# Heading3
+
+# Heading4
+
+
 Text text text
 
 A fixture page that exercises every markdown feature the renderer supports, so styling and cache behaviour can be checked against one document instead of hunting for a real page that happens to use the right elements.
