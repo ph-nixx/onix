@@ -5,7 +5,7 @@
 ---
 
 # Onix
-A *Multilingual Toolchain & Runtime* that is build on top of the [The WebAssembly Component Model](https://component-model.bytecodealliance.org/introduction.html) and [Cranelift](https://cranelift.dev/).
+A *Multilingual Toolchain & Runtime* that is built on top of the [The WebAssembly Component Model](https://component-model.bytecodealliance.org/introduction.html) and [Cranelift](https://cranelift.dev/).
 
 ## Why We Need It
 Languages have libraries that are basically rewrites of one another (e.g. [Python datetime](https://docs.python.org/3/library/datetime.html), [JS Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date))
